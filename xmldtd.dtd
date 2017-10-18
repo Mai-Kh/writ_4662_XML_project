@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+
+<!DOCTYPE tech_help_article [
+<!ELEMENT tech_help_article (title,subject+,team+,troubleshooting)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT subject (Wifi|Wired|MyU|Accounts_and_Passwords|Websites|Email|General)>
+<!ELEMENT team (Tier1|Tier2|Tier3|Engineers|Management)>
+<!ELEMENT article_type (Technology_Overview|Known_Error|Troubleshooting|Escalation)>
+<!ELEMENT troubleshooting (#PCDATA)>
+]>

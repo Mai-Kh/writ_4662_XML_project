@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/css" href="xmlstyles.css"?>
+<!DOCTYPE xmlproject SYSTEM "xmldtd.dtd">
+
+<tech_help_article>
+  <title><h1>Web Browser Errors</h1></title>
+  <subject><h2>Websites</h2></subject>
+  <team>Tier1</team>
+  <team>Tier2</team>
+  <article_type>Troubleshooting</article_type>
+  <troubleshooting>Ensure the user has cleared their cache and cookies and that they have access to the resource they are attempting to log into.</troubleshooting>
+</tech_help_article>
