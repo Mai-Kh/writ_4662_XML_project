@@ -3,10 +3,12 @@
 <!DOCTYPE xmlproject SYSTEM "xmldtd.dtd">
 
 <tech_help_article>
-  <title><h1>Web Browser Errors</h1></title>
-  <subject><h2>Websites</h2></subject>
+  <title>Web Browser Errors</title>
+  <subject>Websites</subject>
   <team>Tier1</team>
   <team>Tier2</team>
   <article_type>Troubleshooting</article_type>
-  <troubleshooting>Ensure the user has cleared their cache and cookies and that they have access to the resource they are attempting to log into.</troubleshooting>
+  <troubleshooting type="how-to">Ensure the user has cleared their cache and cookies but opening their settings and deleting the stored content.</troubleshooting>
+  <troubleshooting type="general practice">Ensure they have access to the resource they are attempting to log into. If they do not have access, assist them with gaining access.</troubleshooting>
+  <troubleshooting type="escalation">If they still cannot access the system, alert the team that manages the website.</troubleshooting>
 </tech_help_article>
