@@ -8,3 +8,4 @@
 <!ELEMENT troubleshooting (#PCDATA) #REQUIRED>
 <!ATTLIST troubleshooting type (general practice|how-to|known error|escalation) #REQUIRED>
 ]>
+ 
